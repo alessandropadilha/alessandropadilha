@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Computer Science at UNIRITTER University (Porto Alegre - RS)
-- 👯 I’m looking to collaborate on IT Area
-- 📫 How to reach me: alessandropadilha.rs@gmail.com
+- I’m currently learning Computer Science at UNIRITTER University (Porto Alegre - RS)
+- I’m looking to collaborate on IT Area
+- How to reach me: alessandropadilha.rs@gmail.com
 -->
